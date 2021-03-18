@@ -19,3 +19,6 @@ Pada hasil run latihan 4 muncul Nilai a dan Nilai b yang disampingnya disertai j
 # Latihan 5
 <img width="819" alt="Latihan 5" src="https://user-images.githubusercontent.com/68727623/111610927-780d7680-880e-11eb-96ae-85dd634a0904.png">
 Pada hasil run latihan 5 muncul nilai geer dan speed yang benilai 0 dan ada yang bernilai 2. Hasil keluaran tersebut sudah sesuai, karena sudah diatur dalam ketetapan program yang telah dibuat, yaitu dengan cara memanggil dan memasukkan nilai geer dan speed kedalam method setGear(), dan speedUp().
+
+# Latihan 6
+<img width="821" alt="Latihan 6" src="https://user-images.githubusercontent.com/68727623/111611624-3f21d180-880f-11eb-8aea-2076d6aa1427.png">
