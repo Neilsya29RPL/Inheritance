@@ -22,3 +22,4 @@ Pada hasil run latihan 5 muncul nilai geer dan speed yang benilai 0 dan ada yang
 
 # Latihan 6
 <img width="821" alt="Latihan 6" src="https://user-images.githubusercontent.com/68727623/111611624-3f21d180-880f-11eb-8aea-2076d6aa1427.png">
+Pada hasil run latihan 6 diatas, merupakan hasil penambahan maupun pengurangan dari dua bilangan, 3 bilangan, maupun 4 bilangan yang jumlahnya sudah ditentukan dan ditetapkan pada program tersebut. Program tersebut dapat berjalan karena terdapat Operasi Aritmetika (+ dan -) yang berperan untuk menjumlahkan atau mengurangi bilangan. Sehingga pada keluaran tersebut hasil penjumlahan dan pengurangan bilangan terjadi secara benar dan sesuai.
