@@ -11,3 +11,7 @@ Pada hasil run latihan 2 terdapat keluaran “No. Karyawan, Nama, Usia” yang d
 # Latihan 3
 <img width="820" alt="Latihan 3" src="https://user-images.githubusercontent.com/68727623/111610100-8dce6c00-880d-11eb-8fef-12a910cdac8b.png">
 Pada hasil run latihan 3 seperti pada gambar diatas, dapat diperoleh dengan cara memanggil method testClassMethod() dan testInstanceMethod(). Sehingga menghasilkan Output program yang sesuai dengan ketetapan program yang telah dibuat.
+
+# Latihan 4
+<img width="820" alt="Latihan 4" src="https://user-images.githubusercontent.com/68727623/111610500-02090f80-880e-11eb-95cc-d07732151516.png">
+Pada hasil run latihan 4 muncul Nilai a dan Nilai b yang disampingnya disertai jumlah angka yang sesuai dengan angka yang telah	 dimasukkan kedalam method setA() dan setB(). Dengan memanggil method tampilkanNilai() yang terdapat pada kelas B, maka hasil outputnya akan tepat dan benar sesuai dengan program yang telah dibuat seperti pada gambar diatas.
