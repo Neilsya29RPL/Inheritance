@@ -1,1 +1,3 @@
 # Inheritance
+
+# Latihan 1
