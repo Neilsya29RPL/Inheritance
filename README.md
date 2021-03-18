@@ -15,3 +15,7 @@ Pada hasil run latihan 3 seperti pada gambar diatas, dapat diperoleh dengan cara
 # Latihan 4
 <img width="820" alt="Latihan 4" src="https://user-images.githubusercontent.com/68727623/111610500-02090f80-880e-11eb-95cc-d07732151516.png">
 Pada hasil run latihan 4 muncul Nilai a dan Nilai b yang disampingnya disertai jumlah angka yang sesuai dengan angka yang telah	 dimasukkan kedalam method setA() dan setB(). Dengan memanggil method tampilkanNilai() yang terdapat pada kelas B, maka hasil outputnya akan tepat dan benar sesuai dengan program yang telah dibuat seperti pada gambar diatas.
+
+# Latihan 5
+<img width="819" alt="Latihan 5" src="https://user-images.githubusercontent.com/68727623/111610927-780d7680-880e-11eb-96ae-85dd634a0904.png">
+Pada hasil run latihan 5 muncul nilai geer dan speed yang benilai 0 dan ada yang bernilai 2. Hasil keluaran tersebut sudah sesuai, karena sudah diatur dalam ketetapan program yang telah dibuat, yaitu dengan cara memanggil dan memasukkan nilai geer dan speed kedalam method setGear(), dan speedUp().
